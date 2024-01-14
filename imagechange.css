@@ -1,1 +1,17 @@
 img.imagechange{width: 500px; height: 200px;}
+body{
+  font-family:"Cica";
+  color:#;
+  background-color:#;
+  font-size:1.5;
+  max-width:1440px;
+  margin:0 auto;
+  positiion:relative;
+  font-kerning:normal;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  min-height:100vh;
+  background-color:$dark;
+  color:$light;
+}
